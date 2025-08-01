@@ -1,0 +1,8 @@
+__pycache__/
+logs/
+outputs/models/
+*.zip
+.DS_Store
+.ipynb_checkpoints/
+.env
+data/raw/
